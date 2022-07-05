@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    margin: 30px;
+    font-family: cursive;
+    color: limegreen;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+p{
+    font-size: 2rem;
+    color: limegreen;
+    font-family: cursive;
+
+}
+img{
+    max-width: 60%;
+
+}
+footer{
+    font-family: cursive;
+    color: maroon;
+    text-align: center;
+    font-size: initial;
+}
